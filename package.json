@@ -1,0 +1,14 @@
+{
+  "name": "helloShashank",
+  "private": true,
+  "version": "4.8.0",
+  "description": "Testing app",
+  "author": "Shashank",
+  "repository": "https://github.com/ImShashank2706/shanky.git",
+  "license": "MIT",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {}
+}
